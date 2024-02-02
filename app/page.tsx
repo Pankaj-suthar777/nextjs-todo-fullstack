@@ -1,3 +1,5 @@
+import Task from "./Components/Tasks/Task";
+
 export default function Home() {
-  return <div>hi</div>;
+  return <Task></Task>;
 }
